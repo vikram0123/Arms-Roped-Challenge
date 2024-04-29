@@ -1,4 +1,6 @@
 # Arms-Roped-Challenge
+The ARMS ROPED challenge is a binary exploitation challenge that involves bypassing the stack canary, address randomization (ASLR), and non-executable stack to achieve code execution by utilizing the Return-Oriented Programming (ROP) technique.
+
 The first series includes analysis at the binary level: participation in binary examination by the
 use of Ghidra tools to understand the architecture and functionalities of the
 "arms-roped" binary file. Analysis was conducted at both static and dynamic levels to identify
