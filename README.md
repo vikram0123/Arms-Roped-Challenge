@@ -1,6 +1,6 @@
 # Arms-Roped-Challenge
 The first series includes analysis at the binary level: participation in binary examination by the
-use of IDA Pro and Ghidra tools to understand the architecture and functionalities of the
+use of Ghidra tools to understand the architecture and functionalities of the
 "arms-roped" binary file. Analysis was conducted at both static and dynamic levels to identify
 any vulnerability that might arise.
 Tools and Techniques Used:
